@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy applies to the **Python - Interview Question** mobile application (hereinafter referred to as the "Application"), developed by **DM Arts** (hereinafter referred to as the "Service Provider"). The Application is provided as a free service and is intended for use "AS IS".
+This Privacy Policy applies to the **Python - Learn Coding** mobile application (hereinafter referred to as the "Application"), developed by **DM Arts** (hereinafter referred to as the "Service Provider"). The Application is provided as a free service and is intended for use "AS IS".
 
 ## Information Collection and Use
 
